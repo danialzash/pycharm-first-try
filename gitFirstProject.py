@@ -1,4 +1,8 @@
 
+
+'''
+how to use with pycharm and github
+'''
+
 print('hello world')
 
-#add a comment
