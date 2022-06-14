@@ -11,4 +11,12 @@ class DemoTest
         echo 'git name has changed';
     }
 
+    /**
+     * @return int
+     */
+    public static function getSimpleValue()
+    {
+        return self::$simpleValue;
+    }
+
 }
