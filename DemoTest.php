@@ -32,4 +32,6 @@ foreach ($strAns as $item)
 }
 $link->close();
 
+// second comment
+
 // another comment to test
