@@ -31,3 +31,5 @@ foreach ($strAns as $item)
     echo "$item[1] $item[2] </br>";
 }
 $link->close();
+
+// second comment 
