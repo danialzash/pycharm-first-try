@@ -35,3 +35,5 @@ $link->close();
 // second comment
 
 // another comment to test
+
+// after commit comment
